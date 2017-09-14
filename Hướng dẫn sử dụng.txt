@@ -1,0 +1,3 @@
+﻿B1: Tạo database tên là db_shop
+B2: Import file db_shop.sql vào database trên.
+B3: Vào file ConnectDatabse.java trong thư mục ConnectDatabase. cấu hình lại user & pass đúng với cấu hình của máy sử dụng.
